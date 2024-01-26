@@ -12,7 +12,7 @@ struct displayText{
     unsigned int weight = 1;
     unsigned int scrollSpeed = 0;
 };
-int textCount = 14;
+int textCount = 13;
 
 displayText textList[] = {
         {"GDS1 % % Informatik ist das beste Profilfach der Schule %H% % % % % % ", 30},
@@ -22,13 +22,12 @@ displayText textList[] = {
         {"Informatik hat die besten Lehrkr%afte % % % % % ",23},
         {"Informatik ist am besten % % % % % ",20},
         {"Nerd sein ist cool % % % % % ",15},
-        {"Fast so wie GMT... % % nur besser... % % und ohne GMT% % % % % ", 10},
         {"Wir haben Kekse % % % % % ",13},
         {"Kommt auf die Seite des dark modes % % % % % ",13},
         {"Wir sind auch kreativ % % % % % ",12},
-        {"Wir malen auch Punkte... % % sogar 1664 St%uck %S % % % % % ",11},
-        {"%S %S %S % % % % % ",11, 10},
-        {"( ._.) % % % % % ",5,5},
+        {"Wir malen Punkte... % % sogar 1664 St%uck %S % % % % % ",11},
+        {"%S %S %S % % % % % % % % % % % % % % % % ",11, 10},
+        {"( ._.) % % % % % % % % % % % % % % % % % ",5,5},
 
 };
 

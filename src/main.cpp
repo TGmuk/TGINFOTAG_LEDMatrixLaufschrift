@@ -3,7 +3,7 @@
 #include "text.h"
 #include <random>
 
-#define SCROLL_SPEED 50
+#define SCROLL_SPEED 20
 
 unsigned int scrollSpeed = SCROLL_SPEED; // Speed of scrolling
 const unsigned int displays = 26; // Number of 8x8 displays
