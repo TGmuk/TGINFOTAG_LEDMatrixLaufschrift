@@ -25,7 +25,7 @@ displayText textList[] = {
         {"Wir haben Kekse % % % % % ",13},
         {"Kommt auf die Seite des dark modes % % % % % ",13},
         {"Wir sind auch kreativ % % % % % ",12},
-        {"Wir malen Punkte... % % sogar 1664 St%uck %S % % % % % ",11},
+        {"Wir malen Punkte... % % sogar 1728 St%uck %S % % % % % ",11},
         {"%S %S %S % % % % % % % % % % % % % % % % ",11, 10},
         {"( ._.) % % % % % % % % % % % % % % % % % ",5,5},
 

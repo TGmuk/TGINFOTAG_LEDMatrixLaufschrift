@@ -6,7 +6,7 @@
 #define SCROLL_SPEED 20
 
 unsigned int scrollSpeed = SCROLL_SPEED; // Speed of scrolling
-const unsigned int displays = 26; // Number of 8x8 displays
+const unsigned int displays = 27; // Number of 8x8 displays
 unsigned int displayBrightness = 5; // 0-15
 bool reverseDisplay = false;
 //END OF CONFIG
